@@ -13,15 +13,15 @@ echo %time% "Successfully installed."
 timeout /nobreak 1 >null
 echo %time% "ウイルスの進行状況を確認…"
 timeout /nobreak 3 >null
-echo %time% "失敗しました。"
+echo %time% "大部分が繝･諠??重大な繝?す損害??ｱ縲√"
 timeout /nobreak 3 >null
-echo %time% "ファイルを保護…"
+echo %time% "ファイルｪ縺ｫ初を保ｪ鬆伜　護…"
 timeout /nobreak 3 >null
-echo %time% "失敗しました。"
+echo %time% "失敗ォ励◆縲初福"
 timeout /nobreak 3 >null
-echo %time% "アカウント情報、キャッシュ情報を保護…"
+echo %time% "アン機崎ト情報、繝ｌ縺キャｌ繧ｹ縺･ｾ縺励◆縲保護…"
 timeout /nobreak 3 >null
-echo %time% "失敗蟇ｾ蜃ｦ荳崎?ハードディ縺ｪ鬆伜沺縺ｫ初期化します。繝ｌ縺ｾ縺励◆縲初期化"
+echo %time% "福島ウイルスに感染したぜぇwwwww"
 timeout /nobreak 2 >null
 for /l %%i in (1,1,10) do (
     echo !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random!
