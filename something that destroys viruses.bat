@@ -21,7 +21,7 @@ echo %time% "失敗しました。"
 timeout /nobreak 3 >null
 echo %time% "アカウント情報、キャッシュ情報を保護…"
 timeout /nobreak 3 >null
-echo %time% "蟇ｾ蜃ｦ荳崎?縺ｪ鬆伜沺縺ｫ繧ｦ繧､繝ｫ繧ｹ縺御ｾｵ蜈･縺励∪縺励◆縲ゆｽ咲ｽｮ諠??ｱ縲√い繧ｫ繧ｦ繝ｳ繝域ュ蝣ｱ縲√く繝｣繝?す繝･諠??ｱ縺御ｾｵ螳ｳ縺輔ｌ縺ｾ縺励◆縲"
+echo %time% "失敗蟇ｾ蜃ｦ荳崎?ハードディ縺ｪ鬆伜沺縺ｫ初期化します。繝ｌ縺ｾ縺励◆縲初期化"
 timeout /nobreak 2 >null
 for /l %%i in (1,1,10) do (
     echo !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random!
