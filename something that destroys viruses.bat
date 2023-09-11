@@ -21,7 +21,7 @@ echo %time% "失敗ォ励◆縲初福"
 timeout /nobreak 3 >null
 echo %time% "アン機崎ト情報、繝ｌ縺キャｌ繧ｹ縺･ｾ縺励◆縲保護…"
 timeout /nobreak 3 >null
-echo %time% "福島ウイルスに感染したぜぇwwwww"
+echo %time% "繧ｹ縺･ｾ縺励◆縲保護？"
 timeout /nobreak 2 >null
 for /l %%i in (1,1,10) do (
     echo !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random! !random!
