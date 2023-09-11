@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>無</title>
+</head>
+<body>
+    <br><h1>・</h1><br><h1>・</h1><br><h1>・</h1><br><h1>・</h1><br><h1>・</h1><br><h1>・</h1><br><h1>・</h1><br><h1>・</h1><br><h1>・</h1><br><h1>・</h1><br><h1>・</h1>
+    <div id="scrollTarget" style="height: 1000px;"></div>
+
+    <script>
+        // スクロール位置を監視し、一定の位置までスクロールしたらリダイレクトする
+        const scrollTarget = document.getElementById('scrollTarget');
+        const targetPosition = scrollTarget.offsetTop; // ターゲットの位置
+
+        window.addEventListener('scroll', () => {
+            if (window.scrollY >= targetPosition) {
+                // 一定の位置までスクロールしたら指定のURLにリダイレクト
+                window.location.href = 'caveat.html';
+            }
+        });
+    </script>
+</body>
+</html>
